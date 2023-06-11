@@ -1,0 +1,7 @@
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Debug\business aplication ver4.exe.config
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Debug\business aplication ver4.exe
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Debug\business aplication ver4.pdb
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Debug\business aplication ver4.csproj.AssemblyReference.cache
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Debug\business aplication ver4.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Debug\business aplication ver4.exe
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Debug\business aplication ver4.pdb

@@ -1,0 +1,6 @@
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Release\business aplication ver4.exe.config
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Release\business aplication ver4.exe
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\bin\Release\business aplication ver4.pdb
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Release\business aplication ver4.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Release\business aplication ver4.exe
+C:\Users\softTech\Desktop\C#\week9\business aplication ver4\business aplication ver4\obj\Release\business aplication ver4.pdb
