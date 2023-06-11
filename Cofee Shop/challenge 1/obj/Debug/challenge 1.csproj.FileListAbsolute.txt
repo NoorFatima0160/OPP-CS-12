@@ -1,0 +1,7 @@
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\bin\Debug\challenge 1.exe.config
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\bin\Debug\challenge 1.exe
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\bin\Debug\challenge 1.pdb
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.AssemblyReference.cache
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\obj\Debug\challenge 1.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\obj\Debug\challenge 1.exe
+C:\Users\softTech\Desktop\C#\week7\challenge 1\challenge 1\obj\Debug\challenge 1.pdb
