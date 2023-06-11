@@ -1,0 +1,14 @@
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\obj\Debug\challenge 2.csproj.AssemblyReference.cache
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\obj\Debug\challenge 2.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\bin\Debug\challenge 2.exe.config
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\bin\Debug\challenge 2.exe
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\bin\Debug\challenge 2.pdb
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\obj\Debug\challenge 2.exe
+C:\Users\softTech\Desktop\C#\week7\challenge 2\challenge 2\obj\Debug\challenge 2.pdb
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\bin\Debug\challenge 2.exe.config
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\bin\Debug\challenge 2.exe
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\bin\Debug\challenge 2.pdb
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\obj\Debug\challenge 2.csproj.AssemblyReference.cache
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\obj\Debug\challenge 2.csproj.CoreCompileInputs.cache
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\obj\Debug\challenge 2.exe
+C:\Users\softTech\Desktop\C#\PD Evalutaion\Point Game\challenge 2\obj\Debug\challenge 2.pdb
